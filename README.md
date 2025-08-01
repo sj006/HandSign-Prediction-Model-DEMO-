@@ -23,7 +23,7 @@ This project is a **prototype** that predicts **alphabets from American Sign Lan
 📁 ASL-HandSign-Predictor/
 ├── dataset/                 # Folder containing ASL images for training
 ├── ModelTrainer.py          # Script to train the model on ASL dataset
-├── HandsignPrediction.py    # Script for live hand gesture prediction using webcam
+├── HandSignPrediction.py    # Script for live hand gesture prediction using webcam
 ├── asl_model.h5             # Trained model file (generated after training)
 ├── requirements.txt         # Python dependencies
 └── README.md                # You are here!
@@ -69,7 +69,7 @@ This will:
 Once training is complete, launch the real-time prediction system:
 
 ```bash
-python HandsignPrediction.py
+python HandSignPrediction.py
 ```
 
 - Your webcam will open.
