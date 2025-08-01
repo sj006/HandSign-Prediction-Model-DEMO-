@@ -60,7 +60,7 @@ python ModelTrainer.py
 This will:
 - Load and preprocess the dataset.
 - Train the model on the ASL gestures.
-- Save the trained model to `model.pkl`.
+- Save the trained model to `asl_model.h5`.
 
 ---
 
