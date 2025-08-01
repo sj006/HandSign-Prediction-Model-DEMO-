@@ -49,7 +49,7 @@ This installs required libraries like OpenCV, MediaPipe, NumPy, etc.
 
 ### 🧠 Step 2: Train the Model
 
-Use the provided ASL dataset or your own. Place the images inside the `dataset/` folder, organized in subfolders (A-Z).
+Use the provided ASL dataset or your own. Place the images inside the `ASL_Dataset/` folder, organized in subfolders (A-Z).
 
 Run the model training script:
 
